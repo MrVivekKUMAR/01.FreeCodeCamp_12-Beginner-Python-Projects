@@ -2,6 +2,7 @@
 12 Beginner Python Projects from FreeCodeCamp https://www.youtube.com/watch?v=8ext9G7xspg
 
 ⭐️ Course Contents ⭐️
+
 ⌨️ 1. Madlibs 
 
 ⌨️ 2. Guess the Number (computer) 
