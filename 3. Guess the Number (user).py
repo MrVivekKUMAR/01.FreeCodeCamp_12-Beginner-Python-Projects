@@ -1,5 +1,5 @@
 import random
-def guessNumber(x):
+def guess_number(x):
     low = 1
     high = x
     feedback =0
@@ -21,4 +21,4 @@ def guessNumber(x):
             print (f"Thank you for your feedback, guessed number is {guess}")
 
 
-guessNumber(10)
+guess_number(10)
