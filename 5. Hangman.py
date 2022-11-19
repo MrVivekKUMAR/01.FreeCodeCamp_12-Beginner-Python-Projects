@@ -1,4 +1,6 @@
 import random
+import string
+
 from wordsForhangman import words
 
 def get_valid_word(words):
@@ -7,4 +9,13 @@ def get_valid_word(words):
         valid_word = random.choice(words)
     return valid_word.upper()
 
-print (get_valid_word(words))
+
+def hang_man():
+    word= (get_valid_word(words))
+    word_letter=set(word) # save the word in an list for e.g for a word= BUMP the word_letter is {'P', 'U', 'M', 'B'}
+    alphabet = set(string.ascii_uppercase)
+    used_letter=set()
+
+def
+
+
